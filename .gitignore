@@ -1,0 +1,28 @@
+# Dart/Flutter
+.dart_tool/
+.pub-cache/
+.pub/
+build/
+coverage/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Android Gradle cache
+.gradle/
+local.properties
+
+# Build artifacts
+**/build/
+**/reports/
+**/intermediates/
+**/outputs/
+
+# OS
+.DS_Store
+.history
+*.swp
